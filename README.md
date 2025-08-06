@@ -34,8 +34,7 @@ An **Arduino-based smart irrigation system** that monitors soil moisture and aut
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](link-to-your-schematic-image)
-*(Replace with actual image link from your repo)*
+Shown in the repository 
 
 ---
 
