@@ -118,7 +118,8 @@ The project uses three libraries:
 
 ## 📷 Project Preview
 
-*(Add real project photos here once uploaded)*
+<img src="https://github.com/JAWAD645/Automatic-Plant-Irrigation-System-/blob/29e5477ad6685bf9fde619d36568065b6ab18570/Project_Image.jpeg" alt="Game Screenshot" width="400">
+
 
 ---
 
